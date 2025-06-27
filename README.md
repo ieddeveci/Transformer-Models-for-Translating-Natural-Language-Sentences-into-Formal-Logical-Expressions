@@ -4,7 +4,7 @@ This repository contains the resources supporting the evaluation framework for n
 
 ## Contents
 
-- **Datasets:** WillowNLtoFOL and WillowNLtoFOL_extended datasets designed to rigorously test compositional generalization in semantic parsing  
+- **Datasets:** WillowNLtoFOL and WillowNLtoFOL_extended datasets designed to test compositional generalization in semantic parsing  
 - **Code:** Training scripts and evaluation tools implementing the metrics proposed in the article, enabling reproducible experiments
 
 ## Purpose
