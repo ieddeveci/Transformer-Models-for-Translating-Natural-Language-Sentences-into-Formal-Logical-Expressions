@@ -21,10 +21,14 @@ If you use this repository or datasets in your research, please cite the accompa
 
 ```bibtex
 @inproceedings{deveci2025transformer,
-  title={Transformer Models for Translating Natural Language Sentences into Formal Logical Expressions},
-  author={Deveci, İbrahim Ethem},
-  booktitle={Student Session - 36th European Summer School in Logic, Language and Information},
-  year={2025},
-  url={https://openreview.net/forum?id=ekMvlQVhsH}
+  author    = {Ibrahim Ethem Deveci},
+  title     = {Transformer Models for Translating Natural Language Sentences into Formal Logical Expressions},
+  booktitle = {Proceedings of the ESSLLI 2025 Student Session, 36th European Summer School in Logic, Language, and Information},
+  editor    = {Valeria Gradimondo and Emil Eva Rosina},
+  year      = {2025},
+  pages     = {162--171},
+  address   = {Bochum, Germany},
+  note      = {Preproceedings version},
+  url       = {https://www.dropbox.com/scl/fi/2g09ml64iymrjc9d1dpao/Proceedings_ESSLLI_2025.pdf?rlkey=m2lntdkvyo9fnfnglicssfbd9&e=1&st=mznc129r&dl=0}
 }
 
