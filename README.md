@@ -2,6 +2,8 @@
 
 This repository contains the resources supporting the evaluation framework for neural semantic parsing from Natural Language to First-Order Logic (NL-to-FOL), to be presented at the **Student Session of the 36th European Summer School in Logic, Language and Information (ESSLLI 2025)**.
 
+[Link for the preproceedings](https://2025.esslli.eu/courses-workshops-accepted/student-session-call.html).
+
 ## Contents
 
 - **Datasets:** WillowNLtoFOL and WillowNLtoFOL_extended datasets designed to test compositional generalization in semantic parsing  
